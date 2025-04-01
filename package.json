@@ -1,0 +1,23 @@
+{
+  "name": "distributed-configuration-manager",
+  "version": "1.0.0",
+  "description": "# Step 1: Setting Up a ZooKeeper Ensemble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binarydevelop/distributed-configuration-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binarydevelop/distributed-configuration-manager/issues"
+  },
+  "homepage": "https://github.com/binarydevelop/distributed-configuration-manager#readme",
+  "dependencies": {
+    "node-zookeeper-client": "^1.1.3"
+  }
+}
